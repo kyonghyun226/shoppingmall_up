@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Dart 문법을 활용한 콘솔 쇼핑몰을 만들고 장바구니 초기화, 장바구니 목록과 합산 가격을 나타내는 기능, 프로그램 종료 시 한번 더 되묻기 기능을 추가한 코딩과제
